@@ -1,3 +1,3 @@
 # Website for AutoIndex
 
-[View site here](https://auto-index.github.io/autoindex_website/)
+[View site here](https://auto-index.github.io/)
